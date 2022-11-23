@@ -1,3 +1,6 @@
+![op1](https://user-images.githubusercontent.com/113667646/203593066-e9c09481-7a6e-41a7-9493-317c18fa913c.png)
+![op2](https://user-images.githubusercontent.com/113667646/203593094-f696783f-dd74-42b0-bd49-264703d080dc.png)
+![op3](https://user-images.githubusercontent.com/113667646/203593106-96f8bb58-30fe-4bf0-82eb-033eebe28f12.png)
 # auth_ui_animatedswitcher
 
 A new Flutter project.
